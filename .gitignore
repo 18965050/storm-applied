@@ -1,0 +1,13 @@
+## Eclipse 环境文件
+.settings/
+.project
+.classpath
+
+## Java 生成文件
+*.class
+*.jar
+*.war
+*.ear
+
+## Maven 相关
+**/target

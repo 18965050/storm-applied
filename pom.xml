@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>stormapplied</groupId>   
+	<artifactId>storm-applied</artifactId>
+	<version>1.0.0</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>storm-applied-sample-master</module>     	
+		<module>C4-Credit-card-authorization-master</module>
+		<module>C6-Flash-sale-recommender-master</module>   	
+		<module>C9-Internet-radio-play-stats-master</module> 
+	</modules>
+  
+	
+</project>

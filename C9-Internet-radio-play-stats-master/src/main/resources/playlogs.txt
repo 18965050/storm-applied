@@ -1,0 +1,69 @@
+{ "artist": "Clairy Browne & The Bangin' Rackettes", "title": "Love Letter", "tags": ["Soul", "2011"] }
+{ "artist": "The Dead Betties", "title": "The Giggling of Ken and Barbie", "tags": ["Punk", "2005"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "The Clash", "title": "Clampdown", "tags": ["Punk", "1979"] }
+{ "artist": "Elvis Presley", "title": "It's Now or Never", "tags": ["Rock", "1960"] }
+{ "artist": "Madcap", "title": "Da Whole Kit & Kaboodle", "tags": ["Rap", "1993"] }
+{ "artist": "The Ramones", "title": "Sheena is a Punk Rocker", "tags": ["Punk", "1979"] }
+{ "artist": "The Dickies", "title": "Banana Splits Song", "tags": ["Punk", "1986 "] }
+{ "artist": "The Clash", "title": "Straight to Hell", "tags": ["Punk", "1982"] }
+{ "artist": "The Clash", "title": "London Calling", "tags": ["Punk", "1979"] }
+{ "artist": "Siouxsie & The Banshees", "title": "Arabian Knights", "tags": ["Post Punk", "1981"] }
+{ "artist": "Hole", "title": "Miss World", "tags": ["Alternative Rock", "1994"] }
+{ "artist": "Icona Pop", "title": "I Love It", "tags": ["Pop", "2012"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Bell Biv Devoe", "title": "Poison", "tags": ["R&B", "1990"] }
+{ "artist": "The Ramones", "title": "Sheena is a Punk Rocker", "tags": ["Punk", "1979"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "The Clash", "title": "Clampdown", "tags": ["Punk", "1979"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "L7", "title": "Pretend We're Dead", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Divinyls", "title": "Touch Myself", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Mazzy Star", "title": "Fade Into You", "tags": ["Alternative Rock", "1993"] }
+{ "artist": "The Ramones", "title": "Sheena is a Punk Rocker", "tags": ["Punk", "1979"] }
+{ "artist": "Yeah Yeah Yeahs", "title": "Maps", "tags": ["Punk", "2003"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "The Ramones", "title": "Sheena is a Punk Rocker", "tags": ["Punk", "1979"] }
+{ "artist": "L7", "title": "Pretend We're Dead", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Raekwon", "title": "Ice Cream", "tags": ["Rap", "1994"] }
+{ "artist": "Icona Pop", "title": "I Love It", "tags": ["Pop", "2012"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Cream", "title": "Strange Brew", "tags": ["Rock", "1967"] }
+{ "artist": "Bell Biv Devoe", "title": "Poison", "tags": ["R&B", "1990"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Butthole Surfers", "title": "Bar B Q Pope", "tags": ["Noise Rock", "1983"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Sugar", "title": "A Good Idea", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "Sugar", "title": "A Good Idea", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "The Clash", "title": "Straight to Hell", "tags": ["Punk", "1982"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Icona Pop", "title": "I Love It", "tags": ["Pop", "2012"] }
+{ "artist": "L7", "title": "Pretend We're Dead", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "INXS", "title": "Devil Inside", "tags": ["New Wave", "1987"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "Yeah Yeah Yeahs", "title": "Maps", "tags": ["Punk", "2003"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Icona Pop", "title": "I Love It", "tags": ["Pop", "2012"] }
+{ "artist": "L7", "title": "Pretend We're Dead", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Taylor Swift", "title": "Shake It Off", "tags": ["Pop", "2014"] }
+{ "artist": "Miley Cyrus", "title": "We Can't Stop", "tags": ["Pop", "2013"] }
+{ "artist": "Yeah Yeah Yeahs", "title": "Rich", "tags": ["Alternative Rock", "2003"] }
+{ "artist": "Public Image Limited", "title": "Rise", "tags": ["Post Punk", "1987"] }
+{ "artist": "L7", "title": "Pretend We're Dead", "tags": ["Alternative Rock", "1992"] }
+{ "artist": "Buddy Holly", "title": "Maybe Baby", "tags": ["Rock", "1957"] }
+{ "artist": "Dion", "title": "Runaround Sue", "tags": ["Doo Wop", "1961"] }
+{ "artist": "Mclusky", "title": "To Hell With Good Intentions", "tags": ["Post Hardcore", "2002"] }
+{ "artist": "Krylls", "title": "Son of a Pig Farmer", "tags": ["Punk", "2007"] }
