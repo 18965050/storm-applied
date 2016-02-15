@@ -18,7 +18,7 @@ public class LocalTopologyRunner {
         cluster.submitTopology("local-heatmap", config, topology);
 
         Utils.sleep(MORE_THAN_TWO_MINUTES);
-        cluster.killTopology("github-commit-count");
+        cluster.killTopology("local-heatmap");
         cluster.shutdown();
 
     }
