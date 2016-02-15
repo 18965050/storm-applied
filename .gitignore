@@ -11,3 +11,6 @@
 
 ## Maven 相关
 **/target
+
+**/.idea
+*.iml
