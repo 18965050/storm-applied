@@ -6,7 +6,7 @@ import backtype.storm.tuple.Fields;
 
 public class HeatmapTopologyBuilder {
 
-    public StormTopology build() {
+    public static StormTopology build() {
         TopologyBuilder builder = new TopologyBuilder();
 
         builder.setSpout("checkins", new Checkins(), 4);	//4个executors
