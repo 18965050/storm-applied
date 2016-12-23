@@ -14,14 +14,16 @@ public class LocalTopologyRunner {
 	public void runTopology() {
 		TopologyBuilder builder = new TopologyBuilder();
 
-		builder.setSpout("commit-feed-listener", new CommitFeedListener());
+		builder.setSpout("commit-feed-listener", new CommitFeedListener(),1).setNumTasks(1);
 
-		builder.setBolt("email-extractor", new EmailExtractor()).shuffleGrouping("commit-feed-listener");
+		builder.setBolt("email-extractor", new EmailExtractor(),1).setNumTasks(1).shuffleGrouping("commit-feed-listener");
 
-		builder.setBolt("email-counter", new EmailCounter()).fieldsGrouping("email-extractor", new Fields("email"));
+		builder.setBolt("email-counter", new EmailCounter(),1).setNumTasks(1).fieldsGrouping("email-extractor", new Fields("email"));
 
 		Config config = new Config();
 		//config.setDebug(true);
+		config.setNumWorkers(1);
+		config.setMaxTaskParallelism(1);
 
 		StormTopology topology = builder.createTopology();
 

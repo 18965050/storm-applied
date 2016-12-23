@@ -2,6 +2,7 @@ package com.hp.schutale.storm.ch2;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -22,6 +23,7 @@ public class CommitFeedListener extends BaseRichSpout {
 
     private SpoutOutputCollector outputCollector;
     private List<String> commits;
+    private Iterator<String> iter;
 
     public void declareOutputFields(OutputFieldsDeclarer declarer) {
         declarer.declare(new Fields("commit"));
@@ -33,16 +35,23 @@ public class CommitFeedListener extends BaseRichSpout {
         try {
             commits = IOUtils.readLines(ClassLoader.getSystemResourceAsStream("changelog.txt"), Charset
                     .defaultCharset().name());
+            iter=commits.iterator();
         } catch (IOException ex) {
             throw new RuntimeException(ex);
         }
     }
 
     public void nextTuple() {
-        log.info("### emitting tuples again");
-        for (String commit : commits) {
-            outputCollector.emit(new Values(commit));
-        }
+    	
+    	while (iter.hasNext()){
+    		this.outputCollector.emit(new Values(iter.next()));
+
+    	}
+    	
+//        log.info("### emitting tuples again");
+//        for (String commit : commits) {
+//            outputCollector.emit(new Values(commit));
+//        }
     }
 
 }
